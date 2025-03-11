@@ -1,3 +1,4 @@
+
 body{
     margin: 0;
     background-color: whitesmoke;
@@ -9,7 +10,7 @@ body{
     margin-top: 0;
     margin-bottom: 0;
 }
-.html{scroll-behavior: smooth;
+html{scroll-behavior: smooth;
     scroll-margin: 20px;
 }
 
